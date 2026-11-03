@@ -7,7 +7,7 @@ SUPPORTED_EXTS = (
     ".xm", ".mod", ".it", ".s3m", ".mtm", ".fc13", ".fc14", 
     ".amd", ".rad", ".bp", ".mo3", ".hsc", ".d00", ".mp3", 
     ".ogg", ".wav", ".v2m", ".sc68", ".mid", ".ahx", ".sid", 
-    ".sap", ".ym", ".nsf", ".spc"
+    ".sap", ".ym", ".nsf", ".spc", ".flac"
 )
 
 def clean_name(str_val):
